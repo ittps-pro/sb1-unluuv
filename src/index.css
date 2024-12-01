@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-layout-header {
+  background: #001529;
+}
+
+.ant-layout-content {
+  background: #f0f2f5;
+}
